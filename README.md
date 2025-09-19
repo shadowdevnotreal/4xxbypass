@@ -14,7 +14,7 @@
 https://user-images.githubusercontent.com/43219706/216746649-8ccecacc-9813-4130-8881-07ea596a1cc6.mov
 
 
-<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Book" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## Tool to bypass 403/401.
 This script contain all the possible techniques to do the same. Performing HTTP status code checks on a list of URLs. It uses `cURL` to send HTTP requests to the specified URLs and analyzes the response to determine the status code and payload. Based on the status code, the script will print a message indicating the status and additional information, such as redirect location, if applicable. The results of the scan are appended to a file named "scan_results.txt".
